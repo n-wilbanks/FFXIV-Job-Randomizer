@@ -1,0 +1,17 @@
+Warrior
+Paladin
+Dark Knight
+Gunbreaker
+White Mage
+Scholar
+Astrologian
+Monk
+Samurai
+Ninja
+Dragoon
+Reaper
+Bard
+Machinist
+Dancer
+Black Mage
+Summoner
