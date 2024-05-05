@@ -5,6 +5,7 @@ Gunbreaker
 White Mage
 Scholar
 Astrologian
+Sage
 Monk
 Samurai
 Ninja
@@ -15,3 +16,4 @@ Machinist
 Dancer
 Black Mage
 Summoner
+Red Mage
