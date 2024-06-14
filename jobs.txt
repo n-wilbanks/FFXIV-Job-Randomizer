@@ -9,6 +9,7 @@ Sage
 Monk
 Samurai
 Ninja
+Viper
 Dragoon
 Reaper
 Bard
@@ -17,3 +18,4 @@ Dancer
 Black Mage
 Summoner
 Red Mage
+Pictomancer
