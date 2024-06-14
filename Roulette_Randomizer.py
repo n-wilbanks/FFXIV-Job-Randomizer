@@ -2,8 +2,6 @@
 # Written and tested in Python 3.11.5 on Windows 10
 # This application is provided without warranty
 # Modify this at your own risk
-# Once Viper and Pictomancer are available, the listing will be updated to include them
-# If you already have jobs.txt on your system, you can add them on new lines and it should function normally
 
 import string
 import random
@@ -13,7 +11,7 @@ from pathlib import Path
 
 path = Path('./jobs.txt')
 system_random = random.SystemRandom()
-jobs = ['Warrior', 'Paladin', 'Dark Knight', 'Gunbreaker', 'White Mage', 'Scholar', 'Astrologian', 'Sage', 'Monk', 'Samurai', 'Ninja', 'Dragoon', 'Reaper', 'Bard', 'Machinist', 'Dancer', 'Black Mage', 'Summoner', 'Red Mage']
+jobs = ['Warrior', 'Paladin', 'Dark Knight', 'Gunbreaker', 'White Mage', 'Scholar', 'Astrologian', 'Sage', 'Monk', 'Samurai', 'Ninja', 'Viper', 'Dragoon', 'Reaper', 'Bard', 'Machinist', 'Dancer', 'Black Mage', 'Summoner', 'Red Mage', 'Pictomancer']
 
 def main():
     # Main Menu
